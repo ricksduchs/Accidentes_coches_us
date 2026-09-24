@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/US_Accidents_March23.csv
+data/US_Accidents_clean.parquet
+dashboard/dashboard_us_accidentes.pbix
