@@ -1,5 +1,9 @@
 # US Accidents — Análisis de Accidentes Graves con Power BI
 
+## Power BI Dashboard
+
+[Descargar el dashboard (.pbix)](https://1drv.ms/u/c/00bc8adc70a2dc97/IQDXhfYHbixbTpCPl5ZvCrz5AeA85giaBjWDEXY8WEocxp8?e=nG8iii)
+
 ## Descripción del proyecto
 
 Este proyecto analiza un conjunto de datos de accidentes de tránsito con el objetivo de identificar patrones relacionados con la **severidad de los accidentes**, con especial atención en los accidentes graves.
